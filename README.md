@@ -20,5 +20,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shashank09mishra&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  
+![snake gif](https://github.com/shashank09mishra/shashank09mishra/blob/output/github-snake-dark.svg)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
