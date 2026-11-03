@@ -1,122 +1,134 @@
 
 # 👋 Hi, I'm Shashank Mishra
 
-### Cybersecurity Analyst | SOC Operations | Cloud & DevOps | Software Development
+### 🔐 Cybersecurity Analyst | Security Operations | Cloud & DevOps | Software Development
 
-I'm a Computer Science graduate from **Galgotias University** with professional experience in Security Operations at **Coforge**.
+Computer Science graduate from **Galgotias University** and cybersecurity professional at **Coforge**, with experience in enterprise security operations, threat investigation, vulnerability management, email security, and security monitoring.
 
-Currently working as an **L1 SOC Analyst**, focusing on security monitoring, incident triage, threat investigation, vulnerability management, and email security.
-
-I enjoy exploring how technology can solve real-world problems, whether through cybersecurity, cloud infrastructure, software development, or IoT-based systems.
+Passionate about building secure, scalable, and intelligent technology solutions. I enjoy working across cybersecurity, cloud infrastructure, software engineering, and IoT, combining analytical thinking with practical problem-solving.
 
 ---
 
 ## 💼 Professional Experience
 
-**🔐 L1 Security Operations Center (SOC) Analyst — Coforge Ltd.**
-- Monitor, triage, and investigate security alerts using Microsoft Sentinel and Microsoft Defender XDR.
-- Investigate phishing, impersonation, malicious URLs, and email threats using Mimecast and Egress.
-- Perform phishing email investigation, message retrieval, and sender blocking to support proactive email threat containment.
-- Investigate suspicious sign-ins and identity risks using Microsoft Entra ID and Defender for Identity.
-- Execute predefined KQL queries and analyze security logs.
-- Validate CVE exposure and track vulnerability remediation using Defender TVM, Tenable, and Nessus.
-- Analyze suspicious IPs, domains, URLs, and file hashes using Recorded Future.
-- Support malware analysis, endpoint security monitoring, and PAM operations.
+### 🔐 Security Operations Center (SOC) Analyst — Coforge Ltd.
 
-**☁️ DevOps & Cloud Trainee — Coforge Ltd.**
-- Completed structured training in AWS, Microsoft Azure, Windows Server Administration, and CompTIA Security+ concepts.
-- Gained hands-on exposure to Docker, Kubernetes, Terraform, and Ansible.
-- Worked on infrastructure automation and configuration management workflows.
+- Monitor, investigate, and respond to security alerts using **Microsoft Sentinel** and **Microsoft Defender XDR**.
+- Conduct security event analysis, investigate suspicious activities, document findings, and coordinate incident escalations.
+- Investigate phishing campaigns, impersonation attempts, malicious URLs, and email-based threats using **Mimecast** and **Egress**.
+- Proactively investigate phishing emails, retrieve identified malicious messages, and block associated sender addresses to support email threat containment.
+- Analyze suspicious sign-ins, identity-related threats, and access risks using **Microsoft Entra ID** and **Defender for Identity**.
+- Execute **KQL (Kusto Query Language)** queries to investigate security events and analyze relevant log data.
+- Assess CVE exposure, validate vulnerabilities, and support remediation tracking using **Microsoft Defender TVM, Tenable, and Nessus**.
+- Investigate suspicious IP addresses, domains, URLs, and file hashes using **Recorded Future** threat intelligence.
+- Support malware analysis and suspicious file investigation through sandboxing tools and **CrowdStrike Falcon**.
+- Monitor privileged account activities and support access security operations using **Thycotic Delinea PAM**.
+- Maintain incident documentation, technical investigation notes, client communications, and security escalations.
+
+### ☁️ DevOps & Cloud Trainee — Coforge Ltd.
+
+- Completed structured technical training in **CompTIA Security+ concepts, AWS Administration, Microsoft Azure Administration, and Windows Server Administration**.
+- Developed foundational knowledge of network security, cryptography, threat identification, access control, and incident response.
+- Gained practical exposure to **Docker, Kubernetes, Terraform, and Ansible**.
+- Implemented infrastructure automation and configuration management workflows using Ansible.
 
 ---
 
 ## 🛡️ Cybersecurity Expertise
 
-**SIEM & XDR**
-- Microsoft Sentinel
-- Microsoft Defender XDR
-- Microsoft Defender for Endpoint
-- Microsoft Defender for Identity
-- Microsoft Defender TVM
+| Domain | Technologies & Expertise |
+|---|---|
+| SIEM & XDR | Microsoft Sentinel, Microsoft Defender XDR |
+| Endpoint Security | Defender for Endpoint, CrowdStrike Falcon |
+| Identity Security | Microsoft Entra ID, Defender for Identity |
+| Vulnerability Management | Defender TVM, Tenable, Nessus |
+| Email Security | Mimecast, Egress |
+| Threat Intelligence | Recorded Future, IOC Analysis |
+| Privileged Access Management | Thycotic Delinea PAM |
+| Security Investigation | KQL, Malware Analysis, Sandbox Analysis |
 
-**Email & Identity Security**
-- Mimecast Email Security
-- Egress
-- Microsoft Entra ID
-- Thycotic Delinea PAM
+### Core Security Competencies
 
-**Vulnerability Management & Threat Intelligence**
-- Tenable
-- Nessus
-- Recorded Future
-- CVE & IOC Analysis
-
-**Endpoint & Malware Security**
-- CrowdStrike Falcon
-- Sandbox Analysis
-- Malware & Suspicious File Investigation
-
-**Security Concepts**
-- SOC Operations & Incident Triage
-- Incident Response
-- Phishing Investigation
-- Threat Intelligence
-- Vulnerability Management
-- Privileged Access Management
+- Security Operations & Incident Investigation
+- Security Alert Monitoring & Triage
+- Phishing & Email Threat Investigation
+- Threat Intelligence & IOC Analysis
+- Vulnerability Assessment & Remediation Tracking
+- Identity & Access Security
+- Endpoint Threat Investigation
+- Incident Documentation & Escalation
 
 ---
 
 ## ☁️ Cloud & DevOps
 
-- AWS
+**Cloud Platforms**
+- Amazon Web Services (AWS)
 - Microsoft Azure
+
+**Infrastructure & Automation**
 - Docker
 - Kubernetes
 - Terraform
 - Ansible
-- Windows Server Administration
+
+**Systems Administration**
+- Windows Server
 - Linux
 
 ---
 
 ## 💻 Programming & Development
 
+**Programming Languages**
 - Java
-- C / C++
 - Python
+- C / C++
 - JavaScript
-- React
+- Embedded C
+
+**Web Development**
+- React.js
 - Node.js
 - Flask
-- SQL / MySQL
+- HTML / CSS
+
+**Databases & Technologies**
+- MySQL
 - Firebase
-- Arduino & Embedded Systems
+- MongoDB
+- Arduino
+- Embedded Systems
+- Internet of Things (IoT)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛡️ IoT Defense: Machine Learning Beyond Signature-Based Firewalls
-**Python | Machine Learning | Random Forest | IoT Security**
 
-- Co-authored and presented a research paper at ICDAM 2026 on IoT intrusion detection.
-- Developed a Random Forest-based Intrusion Detection System using the RT-IoT2022 dataset.
-- Applied feature selection, SMOTE balancing, and hyperparameter tuning.
-- Achieved 99.87% detection accuracy with 4.2 ms inference latency.
+`Python` `Machine Learning` `Random Forest` `IoT Security`
+
+- Co-authored and presented a research paper at **ICDAM 2026** focused on IoT intrusion detection.
+- Developed a machine learning-based Intrusion Detection System using the **RT-IoT2022 dataset**.
+- Applied feature selection, SMOTE class balancing, and hyperparameter optimization.
+- Achieved **99.87% detection accuracy** with **4.2 ms inference latency**, outperforming SVM, XGBoost, and other baseline models.
 
 ### 🦾 Real-Time Prosthetic Limb
-**Python | Arduino | Computer Vision | Embedded C++ | Servo Motors**
 
-- Developed a prosthetic arm capable of mimicking real-time human hand movements.
-- Integrated Python-based gesture tracking with Arduino-controlled servo motors.
-- Showcased the project at the UP International Trade Show 2024.
+`Python` `Arduino` `Computer Vision` `Embedded C++` `Servo Motors`
+
+- Developed a robotic prosthetic arm capable of mimicking real-time human hand movements.
+- Integrated Python-based gesture tracking with Arduino-controlled servo motor actuation.
+- Showcased the project at the **UP International Trade Show 2024**.
 
 ### 🏫 Smart Classroom Management System
-**React | Python | Flask | Machine Learning | Arduino**
 
-- Developed a smart classroom solution integrating attendance automation, resource management, and safety alerts.
-- Integrated a Flask-based chatbot using an SVM and TF-IDF pipeline.
-- Explored hardware integration using Arduino and IoT sensors.
+`React.js` `Python` `Flask` `Machine Learning` `Arduino`
+
+- Developed an intelligent classroom management solution incorporating attendance automation, resource management, and safety alerts.
+- Integrated a Flask-based conversational chatbot using an SVM classifier and TF-IDF vectorization.
+- Explored hardware integration through Arduino and IoT-based sensor systems.
 
 ---
 
@@ -124,34 +136,35 @@ I enjoy exploring how technology can solve real-world problems, whether through 
 
 **Galgotias University, Greater Noida**
 
-B.Tech — Computer Science & Engineering  
-2022 – 2026 | CGPA: 8.0/10.0
+Bachelor of Technology — Computer Science & Engineering
+
+2022 – 2026 | **CGPA: 8.0/10.0**
 
 ---
 
 ## 📜 Certifications & Professional Training
 
-- CompTIA Security+ — Professional Training Completed (Not Certified).
-- Mimecast Email Security Cloud Gateway Fundamentals — Self-Paced Training.
+- **CompTIA Security+** — Professional Training Completed (Certification Not Obtained).
+- **Mimecast Email Security Cloud Gateway Fundamentals** — Self-Paced Training.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
-- Solved 300+ DSA problems on LeetCode and GeeksforGeeks.
-- 28th Rank — Smart India Hackathon Prequalifiers 2024.
-- 8th Rank — Dextrix 4.0 Hackathon.
-- Represented Galgotias University at UP International Trade Show 2024.
-- Co-authored and presented research at ICDAM 2026.
+- Solved **300+ DSA problems** across LeetCode and GeeksforGeeks.
+- **28th Rank** — Smart India Hackathon Prequalifiers 2024.
+- **8th Rank** — Dextrix 4.0 Hackathon.
+- Represented Galgotias University at the **UP International Trade Show 2024**.
+- Co-authored and presented research at **ICDAM 2026**.
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Shashank Mishra](https://www.linkedin.com/in/shashank-mishra-6670b0247/)
-- 💻 GitHub: [shashank09mishra](https://github.com/shashank09mishra)
-- 🧩 Codolio: [Shashank19](https://codolio.com/profile/Shashank19)
-- 📧 Email: [shashankmishra0904@gmail.com](mailto:shashankmishra0904@gmail.com)
+- 💼 **LinkedIn:** [Shashank Mishra](https://www.linkedin.com/in/shashank-mishra-6670b0247/)
+- 💻 **GitHub:** [shashank09mishra](https://github.com/shashank09mishra)
+- 🧩 **Codolio:** [Shashank19](https://codolio.com/profile/Shashank19)
+- 📧 **Email:** [shashankmishra0904@gmail.com](mailto:shashankmishra0904@gmail.com)
 
 ---
 
@@ -171,7 +184,7 @@ B.Tech — Computer Science & Engineering
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
